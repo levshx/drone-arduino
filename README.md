@@ -3,4 +3,5 @@
 Flight controller for Arduino. The data transmitter.
 
 ![alt text](https://sun9-32.userapi.com/c855436/v855436670/f69ec/4Ab5POWlbW8.jpg)
+
 Connection diagram
