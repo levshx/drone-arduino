@@ -1,4 +1,4 @@
-# Дрон на базе ардуино
+# Arduino-based quadrocopter that can be controlled by Android
 
 Component           | Params
 --------------------|----------------------
