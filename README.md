@@ -2,7 +2,7 @@
 
 Component           | Params
 --------------------|----------------------
-Engine motors x4    | 
+Engine motors x4    | ![Engine motors x4](https://sun9-53.userapi.com/c857124/v857124472/17aae2/ukxAHb0U3PM.jpg)
 Motor controllers 4x| 
 Gyroscope           |
 Accelerometer       |
