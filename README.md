@@ -1,5 +1,11 @@
 # Arduino-based quadrocopter that can be controlled by Android
 
+If it weren't for bad girls, I would have been doing porn a long time ago, but this is how I deal with the drone.
+
+I warn you that this project is not very stable, the controller can not cope with fast processing of all parameters. I would be happy if someone took advantage of this project for the purpose of prototyping and switching to STM or FPGA.
+
+I tried to put the minimum price in the F450, so that this device took off and it could be controlled.
+
 Component           | Params
 --------------------|----------------------
 Engine motors x4    |![Engine motors x4](https://sun9-53.userapi.com/c857124/v857124472/17aae2/ukxAHb0U3PM.jpg)  Buy this on [AliExpress](https://aliexpress.ru/item/32914319451.html)
