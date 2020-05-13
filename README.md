@@ -19,4 +19,4 @@ Bluetooth LE 4.1    | AT-09 Android & IOS BLE
 Radio Module NFR24  | NRF24l01 24l01
 
 ### About MPU6050 (Gyroscope and Axelerometr)
-![MPU6050](https://psv4.userapi.com/c856320/u154544954/docs/d16/0ba94d51aae9/Bezymyanny_proekt.gif)
+![MPU6050](https://psv4.userapi.com/c856320/u154544954/docs/d16/0ba94d51aae9/Bezymyanny_proekt.gif?extra=LZTlBxQrWKUThZsbnzKtJc7WxCkgtkcL4I5IPDZSkQoMeGLAu0GMcEvjDNk2cNdX3s1Pjvc1RN2hpNSe0pD9SfrynuxWCDrB-O3oFe9XObpNgGji3S5BUWyzUeY-05oClOpeVjG3oaNPFHRoJ1F0sgIQBQ)
