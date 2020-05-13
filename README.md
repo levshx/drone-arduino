@@ -6,6 +6,8 @@ I warn you that this project is not very stable, the controller can not cope wit
 
 I tried to put the minimum price in the F450, so that this device took off and it could be controlled.
 
+
+
 Component           | Params
 --------------------|----------------------
 Engine motors x4    |![Engine motors x4](https://sun9-53.userapi.com/c857124/v857124472/17aae2/ukxAHb0U3PM.jpg)  Buy this on [AliExpress](https://aliexpress.ru/item/32914319451.html)
@@ -16,3 +18,5 @@ Alloggiamento F450  |![F450](https://sun9-19.userapi.com/c858132/v858132935/1ecd
 Bluetooth LE 4.1    | AT-09 Android & IOS BLE
 Radio Module NFR24  | NRF24l01 24l01
 
+### About MPU6050 (Gyroscope and Axelerometr)
+![MPU6050](https://psv4.userapi.com/c856320/u154544954/docs/d16/0ba94d51aae9/Bezymyanny_proekt.gif)
