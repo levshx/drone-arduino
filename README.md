@@ -1,6 +1,6 @@
 # Arduino-based quadrocopter that can be controlled by Android
 
-If there were no bad girls, I would do porn, but I'm doing a drone here.
+If there were no bad girls, I would act in porn film, but I'm doing a drone here.
 
 I warn you that this project is not very stable, the controller can not cope with fast processing of all parameters. I would be happy if someone took advantage of this project for the purpose of prototyping and switching to STM or FPGA.
 
