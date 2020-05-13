@@ -20,4 +20,4 @@ Radio Module NFR24  | NRF24l01 24l01
 
 ### About MPU6050 (Gyroscope and Axelerometr)
 
-![MPU6050](drone-test-mpu.gif)
+![MPU6050](drone-mpu-test.gif)
